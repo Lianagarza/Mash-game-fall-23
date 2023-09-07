@@ -12,9 +12,9 @@
   <!-- HEAD SECTION ENDS -->
 
   <!-- BODY SECTION STARTS -->
+  <h1 style="background-color:Violet;">Violet</h1>
   <body>
     <h1>MASH</h1>
-    {font-size: 60px;}.
     <p class="description">Fill in the blanks and your future will be foretold.</p>
     <form action="" method="post" id="mash">
       <div id="answers" class="hide">
