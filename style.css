@@ -1,9 +1,9 @@
 /* Body styling */
 body {
-  background: #713e94;
+  background: #FF1493;
   color: #fff;
   font-family: Helvetica, Arial;
-  font-size: px;
+  font-size: 27px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -14,7 +14,7 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
+  font-size: 80px;
   color: #fff;
   text-align: center;
 }
@@ -50,7 +50,7 @@ h1 {
 
 .choice-bucket {
   display: inline-block;
-  float: left;
+  float: center;
   margin: 0;
   padding: 0;
   width: 33.333333%;
@@ -96,7 +96,8 @@ h1 {
   transition: 1s linear;
 }
 
-#answers p {
+#answers p {color: red;
+  text-align: center;}
   max-width: 760px;
   margin: auto;
   padding: 20px 0;
