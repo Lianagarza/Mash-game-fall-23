@@ -50,7 +50,7 @@ h1 {
 
 .choice-bucket {
   display: inline-block;
-  float: center;
+  float: left;
   margin: 0;
   padding: 0;
   width: 33.333333%;
