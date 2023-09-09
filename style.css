@@ -16,13 +16,13 @@ body {
 h1 {
   font-size: 50px;
   color: #FFF
-  text-align: left;
+  text-align: center;
 }
 
 
 /* Game Directions */
 .description {
-  text-align: left;
+  text-align: center;
   margin: 80px auto 40px;
 }
 
